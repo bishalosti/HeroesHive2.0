@@ -1,0 +1,17 @@
+.useCases-topBlur{
+    background: #000000;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(3, 3, 3, 1) 79%, rgba(23, 23, 23, 1) 89%, rgba(20, 20, 20, 0.92) 96%);    
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 0;
+    pointer-events: none;
+    filter: blur(30px);
+    opacity: 0.4;
+    position: absolute;
+  }
+  
+  
+  
+  
+  

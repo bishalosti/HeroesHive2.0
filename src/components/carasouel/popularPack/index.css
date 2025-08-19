@@ -1,0 +1,49 @@
+.image1, .image2, .image3{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: space-between;
+    justify-items: start;
+    flex-shrink: 0;
+    border-radius: 10px;
+    aspect-ratio: 2/2.5;
+    max-width: 25rem;
+}
+
+
+
+.image3{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: space-between;
+    justify-items: start;
+    flex-shrink: 0;
+    border-radius: 10px;
+    aspect-ratio: 2/2.5;
+    max-width: 25rem;
+
+
+}
+
+.image1 {
+  background-image: 
+    linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)),
+    url('../../../assets/carasouel/3a85ad05f1104ab85031c2dff624ec175ff64d5d.png');
+}
+
+.image2 {
+  background-image: 
+    linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)),
+    url('../../../assets/carasouel/8648468267d20d7afa3c3c9c79f085aef59f3ee6.png');
+}
+
+.image3 {
+  background-image: 
+    linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)),
+    url('../../../assets/carasouel/ad8b48823b18d2f3e6b3c5471359217b37e8f15b.png');
+}

@@ -1,0 +1,654 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: 'Poppins';
+    background: #ffffff !important;
+}
+
+
+.getStartedNav, .loginBtn {
+    color:white !important;
+    gap: 10px !important; 
+    border-radius: 24px !important; 
+    border-width: 1px !important; 
+    padding-right: 18px !important; 
+    text-transform: none !important;
+    padding-left: 18px !important; 
+}
+
+.loginBtn{
+      border: 1px solid rgba(255, 255, 255, 1) !important;
+
+}
+
+.loginMobile {
+    color:black !important;
+    gap: 10px !important; 
+    border-color: black;
+    border-radius: 24px !important; 
+    border-width: 1px !important; 
+    border-style:solid !important;
+    padding-right: 18px !important; 
+    text-transform: none !important;
+    padding-left: 18px !important; 
+}
+
+.getStartedNav{      
+  background: linear-gradient(180deg, #FFA649 0%, #FF8200 100%);
+}
+.loginBtn{
+  color:white !important;
+    text-transform: none !important;
+}
+
+.useCaseGradient{
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.8) 100%);
+}
+.topBlur{
+  background: #000000;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(3, 3, 3, 1) 79%, rgba(23, 23, 23, 1) 89%, rgba(20, 20, 20, 0.92) 96%);    
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 0;
+  pointer-events: none;
+  filter: blur(30px);
+  opacity: 0.4;
+  position: absolute;
+}
+
+.navbarItems {
+    @apply text-white px-3 py-2 hover:text-orange-400 transition-all duration-150;
+}
+
+.navbarItemsActive {
+    @apply border-orange-400;
+}
+
+
+
+.gradientLayout{
+    width: 591.9688736421068px;
+    height: 40%;
+    right: 0px;
+    top: -20%;
+    margin:auto;
+    left: 0px;
+    justify-content: center;
+    align-items: center;
+    background: #FF820059;
+    filter: blur(200px);
+}
+
+.primaryButton{
+    background:#FF8200 !important;
+    color:white !important;
+    gap: 10px !important; 
+    border-radius: 24px !important; 
+    border-width: 1px !important; 
+    padding-top: 8px !important; 
+    padding-right: 18px !important; 
+    padding-bottom: 8px !important; 
+        text-transform: none !important;
+  text-transform: none !important;
+
+    padding-left: 18px !important; 
+}
+
+.startAProjectButton{
+   background: linear-gradient(180deg, #FFA649 0%, #FF8200 100%) !important;
+    color:white !important;
+    gap: 10px !important; 
+    border-radius: 24px !important; 
+    border-width: 1px !important; 
+    padding-top: 8px !important; 
+    padding-right: 18px !important; 
+    padding-bottom: 8px !important; 
+        text-transform: none !important;
+  text-transform: none !important;
+  border: 1px solid #ffffff !important;
+    padding-left: 18px !important; 
+}
+
+
+.sectionTitleText{
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.sectionAboveText{
+  font-size: 20px;
+  font-weight: 400;
+}
+.flexTitleText{
+  font-size: 36px;
+  font-weight: 600;
+}
+  .carasouelsDir{
+    direction: ltr !important;
+  }
+
+@media (max-width: 500px) {
+  .sectionTitleText{
+    font-size: 30px;
+    font-weight: 500;
+  }
+  .flexTitleText{
+    font-size: 30px;
+    font-weight: 500;
+  }
+  .sectionAboveText{
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .primaryButton{
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+        font-size: 10px !important;
+
+  }
+
+
+
+  .startAProjectButton{
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+        font-size: 10px !important;
+  }
+    .secondaryButton{
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    font-size: 10px !important;
+        border: 1px solid rgb(255, 255, 255) !important;
+
+  }
+  .tertiaryButton{
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    font-size: 10px !important;
+  }
+}
+
+.backgroundImageOverlay:before {
+    content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-image: linear-gradient(to bottom right,#0000001e,#0000001c) !important;
+	opacity: .6; 
+  z-index: 10;
+  }
+
+.scroller {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 64px;
+  display: flex;
+  width: 100%;
+  white-space: nowrap;
+  display: flex;
+  flex-wrap: nowrap;
+  gap:10px
+}
+
+.scroller {
+  will-change: transform;
+  transform: translateZ(0);   /* promote to GPU layer */
+}
+
+
+.zoom-in,
+.zoom-out {
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: inherit;  
+    background-size: cover;
+    background-position: center;
+    transform-origin: center;
+    transition: transform .4s ease-in-out;
+  }
+}
+
+.zoom-in {
+  &:focus,
+  &:hover {
+    &::after {
+      transform: scale(1.1);
+    }
+  }
+}
+
+.zoom-in{
+  overflow: hidden;
+  position: relative;
+}
+
+.zoom-out {
+  &::after {
+      transform: scale(1.1);
+  }
+  
+  &:focus,
+  &:hover {
+    &::after {
+      transform: scale(1);
+    }
+  }
+}
+
+
+.imageZoomIn {
+  &:focus,
+  &:hover {
+      transform: scale(1.1);
+      transition: transform .4s ease-in-out;
+  }
+  transform: scale(1);
+  transition: transform .4s ease-in-out;
+}
+
+
+
+.secondaryButton {
+    width: 89;
+    height: 44;
+    gap: 10px !important;
+    border-radius: 24px !important;
+    border-width: 1px !important;
+    padding-top: 8px !important;
+    padding-right: 24px !important;
+        background: #000000 !important;
+
+    padding-bottom: 8px !important;
+    padding-left: 24px !important;
+    color:white !important;
+    text-transform: none !important;
+    border: 1px solid rgb(255, 255, 255) !important;
+}
+
+.paragraphText{
+  font-size: 16px !important;
+}
+
+
+/* Blur overlays */
+.blur {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 15rem;
+  z-index: 100;
+  pointer-events: none;
+  filter: blur(30px);
+  opacity: 0.8;
+  
+}
+
+/* Left side */
+.blur-left {
+left: -20px;
+background: #000000;
+background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(3, 3, 3, 1) 79%, rgba(23, 23, 23, 1) 89%, rgba(20, 20, 20, 0.92) 96%);
+}
+
+/* Right side */
+.blur-right {
+  right: -20px;
+
+  background: #000000;
+  background: linear-gradient(270deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(3, 3, 3, 1) 79%, rgba(23, 23, 23, 1) 89%, rgba(20, 20, 20, 0.92) 96%);
+}
+
+.grid-container {
+  position: relative;
+  overflow: hidden;
+  padding: 0;
+  background: #000; /* adjust to your background */
+
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.noScrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.noScrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.topFrame{
+  padding: 2rem;
+}
+
+
+
+.trustedBySection{
+    background-color: white;
+    margin:auto;
+    height: fit-content;
+    color:black;
+
+    padding: 2rem;
+    padding-top: 5rem ;
+    padding-bottom: 2rem;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.fade-left,
+.fade-right {
+  position: absolute;
+  top: 0;
+  width: 300px;
+  height: 100%;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.fade-left {
+  left: 0;
+  background: linear-gradient(to right, white 30%, transparent 100%);
+}
+
+.fade-right {
+  right: 0;
+  background: linear-gradient(to left, white 30%, transparent 100%);
+}
+
+.whatIsHeroesHive{
+    background-color: rgba(255, 249, 242, 1);
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    text-align: left;
+    color: black;
+    padding: 5rem;
+}
+
+ .secondaryButton {
+    gap: 10px !important; 
+
+    text-transform: none !important;
+
+}
+
+.tertiaryButton {
+  border: 1px solid black !important;
+  text-transform: none !important;
+   border-radius: 24px !important; 
+    border-width: 1px !important; 
+    padding-top: 8px !important; 
+    padding-right: 18px !important; 
+    padding-bottom: 8px !important; 
+        text-transform: none !important;
+  text-transform: none !important;
+
+    padding-left: 18px !important; 
+}
+
+.tertiaryButtonWhite {
+  border: 1px solid white !important;
+    text-transform: none !important;
+     border-radius: 24px !important; 
+    border-width: 1px !important; 
+    padding-top: 8px !important; 
+    padding-right: 18px !important; 
+    padding-bottom: 8px !important; 
+        text-transform: none !important;
+  text-transform: none !important;
+
+    padding-left: 18px !important; 
+
+}
+
+ .whatIsHeroesHive img:hover{
+  transform:scale(1.02)
+}
+
+.navbarItems:hover{
+  color: #FF8200 !important;
+}
+
+.navbarItemsActive{
+  color: #FF8200 !important;
+}
+
+.howItWorks{
+  background-color: white;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: center;
+  color: black;
+  padding: 5rem;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.whyHeroesHive{
+  background-color: white;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: center;
+  color: black;
+  padding: 5rem;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.userEndorsements{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: fit-content;
+    width: 100%;
+
+    background-color: white;
+}
+
+.userEndorsementCard{
+  border-radius: 20px;
+  display: flex;
+  padding-left: 4rem;
+    padding-right: 4rem;
+  width: 100%;
+  padding-top: 4rem;
+    padding-bottom: 4rem;
+
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-image:  linear-gradient(360deg, #000000 0%, #2F2F2F 100%);
+  background-size:contain;
+  
+}
+
+    .userEndorsementCard{
+
+      padding-top: 5rem;
+      padding-bottom: 5rem;
+    }
+
+@media (min-width: 768px) {
+    .userEndorsementCard{
+      text-align: left;
+      padding-left: 6rem;
+      padding-right: 6rem;
+      padding-top: 4rem;
+      padding-bottom: 4rem;
+      align-items: start;
+    }
+   
+    .userEndorsements{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: fit-content;
+      padding: 5rem;
+      background-color: white;
+    }
+    
+}
+
+@media (max-width: 768px) {
+  .gradientLayout{
+    width: 0;
+  }
+
+   .whyHeroesHive{
+        padding-top: 3rem !important;
+        padding-bottom: 3rem !important;
+    }
+  .blur{
+  width: 0;
+  }
+
+  .fade-left,
+  .fade-right {
+    position: absolute;
+    top: 0;
+    width: 100px;
+    height: 100%;
+    z-index: 10;
+    pointer-events: none;
+  }
+  .useCases{
+    padding: 2rem;
+  }
+
+  table > *{
+    font-size: 12px !important;
+  }
+  .secondaryButton {
+    width: 89;
+    height: 44;
+    gap: 10px !important;
+    border-radius: 24px !important;
+    border-width: 1px !important;
+    padding:  0.5rem 1rem 0.5rem 1rem !important;
+    color:white !important;
+        border: 1px solid rgb(255, 255, 255) !important;
+
+      text-transform: none !important;
+
+  } 
+  td {
+    border: 1px solid #D7D7D7;
+    border-left: 0;
+    border-right: 0;
+    font-size: 10px !important;
+    padding: 0.5rem;      
+
+  }
+
+  .whatIsHeroesHive{
+    padding: 2rem;
+    width: 100%;
+    text-align: left;
+    flex-direction: column;
+  }
+  .howItWorks{
+    padding: 2rem;
+  }
+
+  th{
+    border: 1px solid #D7D7D7;
+    padding: 0.3rem 0.3rem 1rem !important;
+    font-size: 10px ;
+    align-items: center;
+    justify-content: center;
+  }
+
+}
+
+.insideCard{
+  background: linear-gradient(360deg, #000000 0%, #2F2F2F 100%);
+  border-radius: 7px;
+  display: flex;
+  margin-top: 2rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  height: fit-content;
+  flex-direction: column;
+  text-align: left;
+  align-items: start;
+  background-repeat: no-repeat;
+  gap: 3px;
+  justify-content: flex-end;
+  background: linear-gradient(152.54deg, rgba(255, 235, 214, 0.12) 1.33%, rgba(0, 0, 0, 0.045) 100.78%);
+  border: 1px solid #393939;
+}
+
+
+
+.popularPacks{
+  background: #FFF9F2;
+}
+.dateTimeSection{
+  height: fit-content;
+  background: #000000;
+  background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 44%, rgb(255, 255, 255) 50%, rgba(255, 130, 0, 1) 50%, rgba(255, 130, 0, 1) 100%);}
+
+.datepickerComponent{
+  height: 70% !important;
+  border: 8px solid rgba(255, 249, 242, 1);
+  box-shadow: 0px 11px 26.5px 0px rgba(0, 0, 0, 0.1);
+
+}
+td {
+  border: 1px solid #D7D7D7;
+  border-left: 0;
+  border-right: 0;
+}
+
+th{
+  border: 1px solid #D7D7D7;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  padding: 2rem;
+  align-items: center;
+  justify-content: center;
+}
+
+ .footerTextClass > li {
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    color: #A1A1A1 !important;
+  }
+
+  .footerTextClass{
+     font-size: 14px !important;
+    font-weight: 400 !important;
+    color: #A1A1A1 !important;
+  }
+
+

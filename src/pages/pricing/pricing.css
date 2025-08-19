@@ -1,0 +1,52 @@
+.pricing-topBlur{
+    background: #000000;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(3, 3, 3, 1) 79%, rgba(23, 23, 23, 1) 89%, rgba(20, 20, 20, 0.92) 96%);    
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 0;
+    pointer-events: none;
+    filter: blur(30px);
+    opacity: 0.4;
+    position: absolute;
+  }
+  
+  .pricingLinearGradient{
+    background: linear-gradient(268.26deg, #000000 27.44%, #2F2F2F 97.2%);
+  }
+
+  .pricingBoxShadow{
+    box-shadow: 0px 0px 7.3px 0px #FFFFFF40;
+
+  }
+  
+
+  .card-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.badge {
+  position: absolute;
+  top: -12px;
+  left: 75%;
+  transform: translateX(-50%) rotate(5deg);
+  background-color: black;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: bold;
+  padding: 9px 10px;
+  width: 8rem;
+  border-radius: 20px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.badge::before {
+  content: "🔥";
+}
+
+  
+  

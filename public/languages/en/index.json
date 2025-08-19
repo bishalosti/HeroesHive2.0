@@ -1,0 +1,1747 @@
+{
+  "blogPage": {
+    "header": {
+      "title": "Insights, Stories, and Smart Growth <highlight>for Startups & Small Teams.</highlight>",
+      "description": "Explore our blog for creative execution tips, startup resources, real use cases, and lessons from the field — all tailored for founders, marketers, and lean teams building the future."
+    },
+    "intro": {
+      "mainText": "This isn’t just another startup blog. <highlight>We write for people who are building — brands, businesses, and big ideas</highlight> — with limited time, tight budgets, and big ambition.",
+      "additionalText": "Whether you’re launching an online store, scaling content, or planning your first paid campaign, <highlight>you’ll find real-world insights from the same team</highlight> that runs the work behind the scenes."
+    },
+    "sections": {
+      "ourBlogs": {
+        "title": "Our Blogs",
+        "categories": [
+          "Startups & Entrepreneurship",
+          "Branding & Identity",
+          "Creative Marketing",
+          "Remote Teams & Squads",
+          "Platform Updates & Case Studies"
+        ]
+      },
+      "latestArticles": {
+        "title": "Latest Articles",
+        "categories": [
+          "Startups & Entrepreneurship",
+          "Branding & Identity",
+          "Creative Marketing",
+          "Remote Teams & Squads",
+          "Platform Updates & Case Studies"
+        ]
+      }
+    },
+    "subscribeSection": {
+      "title": "Need Help Choosing a Server?",
+      "description": "We’ll help you match your business goals to the right workflow — fast and free.",
+      "form": {
+        "inputs": {
+          "fullName": "Full Name",
+          "emailAddress": "Email Address"
+        },
+        "button": "Subscribe"
+      }
+    }
+  },
+  "blogSingle": {
+    "pageTitle": "5 Common Startup Design Mistakes (And How to Avoid Them)",
+    "pageCategory": "Startups & Entrepreneurship",
+    "author": "By James Doe",
+    "date": "Jun 29, 2025",
+    "introParagraph": "Design is more than just visuals — it’s how your brand communicates, builds trust, and guides users. Startups often move fast, but skipping thoughtful design can cost time, money, and credibility. Let’s explore five common startup design mistakes — and how to avoid them.",
+
+    "mistakes": [
+      {
+        "title": "Lack of a Clear Brand Identity",
+        "mistake": "Many startups begin without a consistent logo, color palette, typography, or brand tone. This leads to disjointed marketing materials and user confusion.",
+        "fix": "Create a brand style guide early on. Define your logo usage, brand colors, fonts, and tone of voice. This helps keep everything consistent — from your website to pitch decks."
+      },
+      {
+        "title": "Overcomplicating the User Experience (UX)",
+        "mistake": "Trying to be innovative, many startups add too many features or unusual interactions. The result? Confused users who drop off quickly.",
+        "fix": "Focus on simplicity. Identify your core user goal, and remove friction in achieving it. Test with real users and get feedback early. Good design is invisible — it just works."
+      },
+      {
+        "title": "Using Templates Without Customization",
+        "mistake": "Relying entirely on website builders or generic UI kits without branding them results in a product that looks like everyone else’s.",
+        "fix": "Use templates as a foundation, not a final product. Customize layouts, fonts, icons, and colors to reflect your unique value. Investing a little time in design refinement goes a long way."
+      },
+      {
+        "title": "Ignoring Mobile-First Design",
+        "mistake": "Startups often design for desktop first and only “shrink it down” for mobile — missing mobile-specific usability needs.",
+        "fix": "Think mobile-first. Over 60% of users browse from mobile. Prioritize performance, accessibility, and simple interfaces that work flawlessly on small screens."
+      }
+    ],
+
+    "finalThoughts": "Startups that invest in smart, consistent design from the beginning stand out, gain user trust, and scale faster. You don’t need to be a design expert — but avoiding these five mistakes will put you miles ahead.",
+
+    "previousArticle": {
+      "label": "Previous",
+      "title": "How to Launch a Brand in 14 Days with a Remote Team",
+      "description": "Tips from our Squad Leads on executing fast with zero full-time hires."
+    },
+
+    "nextArticle": {
+      "label": "Next",
+      "title": "When to Start Paid Ads — and What to Do Before Spending a Dime",
+      "description": "Our internal framework for launching ad-ready creative."
+    },
+
+    "sidebar": {
+      "categoriesTitle": "Categories",
+      "categories": [
+        "All categories",
+        "Startups & Entrepreneurship",
+        "Branding & Identity",
+        "Creative Marketing",
+        "Remote Teams & Squads",
+        "Platform Updates & Case Studies"
+      ]
+    }
+  },
+  "aboutUs": {
+    "topBanner": {
+      "headline": "We’re Building the <highlight>Smartest Way to Get Creative</highlight> Work Done",
+      "subheadline": "From brand identity and storefront design to ad creatives and product visuals — we’ve got everything your store needs to get off the ground and into the market, fast.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "scheduleConsultation": "Schedule a Free Consultation"
+      }
+    },
+    "backgroundImageCards": {
+      "card1": "A Trusted Team",
+      "card2": "A Trusted Team",
+      "card3": "A Trusted Team"
+    },
+    "whoWeAreSection": {
+      "title": "WHO WE ARE",
+      "description": "Heroes Hive is a new kind of agency — one powered by structure, technology, and hand-picked remote teams.",
+      "summary": "We help businesses launch and grow through branding, websites, creative content, and marketing — all executed through Pipelines led by Squads.",
+      "imageAlt": "Laughing Guy"
+    },
+    "keyPoints": [
+      "You don’t have to hire in-house.",
+      "You don’t have to manage freelancers.",
+      "You just tell us what you want to build — and we take it from there."
+    ],
+    "ourMission": {
+      "title": "Our Mission",
+      "content": "To help founders and teams execute faster, smarter, and more affordably — without compromising quality.",
+      "highlight": "We’re not just offering services — we’re building a better way to get creative and marketing work done at scale."
+    },
+    "ourStory": {
+      "title": "Our Story",
+      "content": "Heroes Hive was born out of frustration — with unreliable freelancers, bloated agencies, and the constant overwhelm of trying to manage it all.",
+      "imageAlt": "Card Image"
+    },
+    "founderMessage": {
+      "text1": "After building creative businesses for over a decade, our founder knew what most startups needed:",
+      "text2": "That’s why Heroes Hive exists — to give creative teams to founders who don’t have one (yet)."
+    },
+    "whyWereDifferent": {
+      "title": "Why <highlight>We're Different</highlight>",
+      "cards": [
+        {
+          "title": "Execution First",
+          "description": "We’re not just consultants. We do the work.",
+          "imageAlt": "Execution First"
+        },
+        {
+          "title": "Remote by Design",
+          "description": "Our Squads are distributed, agile, and specialized.",
+          "imageAlt": "Remote By Design"
+        },
+        {
+          "title": "Pipeline-Powered",
+          "description": "Every project follows a proven workflow.",
+          "imageAlt": "Pipeline-Powered"
+        },
+        {
+          "title": "Fully Managed",
+          "description": "No micromanaging. Your Squad Lead handles it.",
+          "imageAlt": "Fully Managed"
+        },
+        {
+          "title": "Flexible",
+          "description": "Pay by project or monthly, based on your needs.",
+          "imageAlt": "Flexible"
+        }
+      ]
+    },
+    "teamSection": {
+      "title": "Team",
+      "description": "We’re a global network of creative professionals, project managers, and startup-minded builders — connected by a shared mission to help founders execute better."
+    },
+    "growYourStore": {
+      "headline": "Want To <highlight>Work With Us?</highlight>",
+      "subheadline": "We’re growing. If you’re a creative, marketer, or PM who believes in remote excellence — we’d love to connect.",
+      "buttons": {
+        "applyAsSquad": "Apply as a Squad",
+        "partnerWithUs": "Partner With Us"
+      }
+    },
+    "letsBuildTogether": {
+      "title": "Let’s Build Something Together",
+      "subtitle": "We’ll guide you from idea to execution.",
+      "description": "One Pipeline. One Squad. One step at a time.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "scheduleConsultation": "Schedule a Free Consultation"
+      }
+    }
+  },
+  "contactUs": {
+    "hero": {
+      "title": "Have a <highlight>Question</highlight>? Let’s <highlight>Talk</highlight>",
+      "description": "Whether you’re planning a project, need help choosing a service, or just want to learn more — we’re here to help.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "scheduleConsultation": "Schedule a Free Consultation"
+      }
+    },
+    "formSection": {
+      "title": "Get In Touch",
+      "description": "Please fill out the form below and our team will get back to you within 1 business day.",
+      "fields": {
+        "name": "Name",
+        "email": "Email",
+        "company": "Company (Optional)",
+        "helpTopic": "What do you need help with?",
+        "helpTopicPlaceholder": "Select",
+        "message": "Message",
+        "messagePlaceholder": "Type your message here.."
+      },
+      "submitButton": "Submit"
+    },
+    "contactInfo": {
+      "email": {
+        "label": "Email us at:",
+        "value": "hello@heroshive.com"
+      },
+      "liveChat": {
+        "label": "Chat with us via our",
+        "value": "Live Chat Widget"
+      },
+      "bookCall": {
+        "label": "Book a call",
+        "value": "Schedule a Free Consultation"
+      }
+    },
+    "joinSquad": {
+      "title": "Want to Join Heroes Hive as a Squad?",
+      "description": "We’re always looking for top creative, development, and marketing teams to partner with. If you think your team has what it takes, apply to be considered.",
+      "button": "Apply to Join as a Squad"
+    }
+  },
+  "howItWorks": {
+    "hero": {
+      "title": "From <highlight>Idea to Execution</highlight> — All in One Platform",
+      "description": "Skip the hiring chaos. We connect you with vetted remote Squads to execute your branding, website, content, and marketing — fast, clear, and fully managed.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "scheduleConsultation": "Schedule a Free Consultation"
+      }
+    },
+    "intro": {
+      "statement": "Heroes Hive isn’t a freelance marketplace or a traditional agency.",
+      "description": "We’re a <highlight>smart execution platform</highlight> that gives you structured workflows (Pipelines) <icon>RouteIcon</icon> and the remote teams (Squads) <icon>Diversity3Icon</icon> to <highlight>get the job done</highlight> — no full-time hires, no confusion."
+    },
+    "smallGridImagesAlt": "Small preview images showcasing work samples",
+    "stepsSection": {
+      "title": "From <highlight>Idea to Execution</highlight> — in Just 5 Steps",
+      "steps": [
+        {
+          "id": "01",
+          "title": "Choose a Pipeline",
+          "description": "We’ve simplified creative and marketing projects into clear, ready-made workflows — from branding to websites to ad campaigns. You pick the goal. We handle the process."
+        },
+        {
+          "id": "02",
+          "title": "Match with a Squad",
+          "description": "Once you choose a pipeline, we assign a fully vetted Squad — a remote team built specifically for your needs. Every Squad is led by a Squad Manager who ensures quality, communication, and on-time delivery."
+        },
+        {
+          "id": "03",
+          "title": "Review Scope & Start",
+          "description": "We walk you through the project plan, scope, and timeline. You’ll approve deliverables before work begins."
+        },
+        {
+          "id": "04",
+          "title": "Execute & Track Everything",
+          "description": "Work begins inside your private workspace (your Hive). You’ll see progress, leave feedback, and receive updates via your Activity Log — no chasing emails or managing freelancers."
+        },
+        {
+          "id": "05",
+          "title": "Review & Launch",
+          "description": "Your project is delivered with all final files and editable source files. Need help post-launch? We offer follow-up support and long-term Squad options."
+        }
+      ]
+    },
+    "summary": {
+      "text": "From <highlight>Strategy to Launch</highlight> — our Squads handle the heavy lifting while you stay focused on growth.",
+      "buttons": {
+        "browsePipeline": "Browse Pipeline",
+        "scheduleConsultation": "Schedule a Free Consultation"
+      }
+    },
+    "popularPacks": {
+      "label": "Popular Packs",
+      "title": "With <highlight>great projects</highlight> comes <highlight>great execution</highlight>",
+      "description": "From visual identity to performance ads, our Squads handle the full creative and marketing load—so you can focus on your mission.",
+      "buttons": {
+        "browseAllServicesDesktop": "Browse All Services",
+        "browseAllServicesMobile": "Browse All Services"
+      }
+    },
+    "faq": {
+      "items": [
+        {
+          "question": "Do I need to know exactly what I want?",
+          "answer": "This is the content that shows when the section is expanded."
+        },
+        {
+          "question": "Can I build a long-term relationship with a Squad?",
+          "answer": "Lorem Ipsum"
+        },
+        {
+          "question": "What if I’m not satisfied?",
+          "answer": "My father has no sons so I'm the one Who has to social climb for one So I'm the oldest and the wittiest and the gossip in New York City is insidious And Alexander is penniless Ha! That doesn't mean I want him any less"
+        }
+      ]
+    },
+    "finalCTA": {
+      "title": "Let’s Turn Your Idea into a Launched Project",
+      "description": "We’ll guide you through the first step — no stress, no guesswork.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "scheduleConsultation": "Schedule a Free Consultation"
+      }
+    }
+  },
+  "pricing": {
+    "hero": {
+      "title": "Flexible Pricing That <highlight>Fits Your Business</highlight>",
+      "description": "Whether you need a one-time project or ongoing team support, Heroes Hive gives you transparent, flexible options to get things done — without the guesswork."
+    },
+    "intro": {
+      "statement": "We don’t do vague quotes or hourly roulette.",
+      "description": "At Heroes Hive, every service is packaged into a clear, <highlight>structured workflow</highlight> (a Pipeline), executed by a vetted Squad, and led by a Squad Manager. You’ll know <highlight>exactly what you’re getting</highlight>, how long it takes, and what it costs — before anything starts."
+    },
+    "plans": {
+      "payPerProject": {
+        "badge": "Most Popular",
+        "title": "Pay Per Project",
+        "features": [
+          "Fixed cost based on your chosen Pipeline",
+          "Transparent scope, timeline, and deliverables",
+          "Ideal for branding, websites, campaigns, or launch packs",
+          "Example: Brand & Launch Pack starting from $1,200+"
+        ],
+        "cta": "Start a Project"
+      },
+      "monthlyPayment": {
+        "title": "Monthly Payment",
+        "features": [
+          "Same project, broken into monthly milestones",
+          "Easier on cash flow without reducing scope",
+          "Ideal for startups and SMEs managing budgets",
+          "No interest, no hidden fees — just a flexible schedule"
+        ],
+        "cta": "Schedule a Free Consultation"
+      },
+      "subscriptionPlans": {
+        "comingSoon": "Coming Soon: Subscription Plans",
+        "subtitle": "Want to retain a Squad long-term for design, content, or ad support?",
+        "boxTitle": "We’re launching monthly squad plans soon with:",
+        "features": [
+          "Guaranteed hours per month",
+          "Lower per-project cost",
+          "Dedicated Squad Manager",
+          "Priority support"
+        ],
+        "cta": "Talk To Us"
+      }
+    },
+    "included": {
+      "sectionLabel": "WHY IT'S WORTH IT",
+      "title": "What’s <highlight>Included</highlight> in Every Project:",
+      "seeHowItWorks": "See How It Works",
+      "items": [
+        "Vetted Remote Squad",
+        "Squad Manager for Oversight",
+        "Structured Project Pipeline",
+        "Secure Payment System",
+        "Final Files + Editable Sources",
+        "Optional Post-Launch Support"
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "subTitle": "Frequently <highlight>asked questions.</highlight",
+      "items": [
+        {
+          "question": "Can I pay in local currency?",
+          "answer": "This is the content that shows when the section is expanded."
+        },
+        {
+          "question": "What if I want to add more work mid-project?",
+          "answer": "Lorem Ipsum"
+        },
+        {
+          "question": "Are refunds really available?",
+          "answer": "My father has no sons so I'm the one Who has to social climb for one So I'm the oldest and the wittiest and the gossip in New York City is insidious And Alexander is penniless Ha! That doesn't mean I want him any less"
+        }
+      ]
+    },
+    "ctaBanner": {
+      "title": "Your Project, Your Pace — Let’s Get Started",
+      "description": "Choose your payment preference and let’s match you with the right Squad today.",
+      "startProject": "Start a Project",
+      "scheduleConsultation": "Schedule a Free Consultation"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Beside every bold startups and standout <highlight>brands is a powerful Hive.</highlight>",
+      "subtitle": "Your full creative team—ready when you are. No hiring, no contracts, no chaos. Just fast, managed execution across branding, content, marketing and beyond",
+      "buttons": {
+        "start": "Start a Project",
+        "schedule": "Schedule a Free Consultation"
+      }
+    },
+    "trusted": {
+      "title": "Trusted by startups, small businesses, and creative teams across the region"
+    },
+    "whatIs": {
+      "sectionTitle": "WHAT IS HEROES HIVE?",
+      "headline": "Your <highlight>Remote Execution</highlight> Partner — Powered by a Platform",
+      "paragraphs": [
+        "Heroes Hive connects you with fully vetted remote Squads to handle your branding, design, website, content, and marketing — without hiring freelancers or building in-house teams.",
+        "We’re not a marketplace. We’re your on-demand creative and growth team, built for speed and scale."
+      ],
+      "buttons": {
+        "video": "Watch Explainer Video",
+        "howItWorks": "How It Works"
+      }
+    },
+    "howItWorks": {
+      "sectionTitle": "How It Works?",
+      "headline": "Every <highlight>great mission needs</highlight> a team",
+      "description": "Here’s how we assemble your Squad and execute your project with precision.",
+      "steps": [
+        "Create Your Hive",
+        "Choose a project pipeline",
+        "Match with vetted Squad",
+        "Review, revise, & launch"
+      ],
+      "buttons": {
+        "video": "See How It Video",
+        "services": "Browse Services"
+      }
+    },
+    "popularPacks": {
+      "sectionTitle": "Popular Packs",
+      "headline": "With <highlight>great projects</highlight> comes <highlight>great execution</highlight>",
+      "description": "From visual identity to performance ads, our Squads handle the full creative and marketing load—so you can focus on your mission.",
+      "button": "Browse All Services"
+    },
+    "comparison": {
+      "sectionTitle": "Comparison",
+      "headline": "Not <highlight>all teams are created</highlight> equal",
+      "description": "The wrong choice costs time, money, and sanity. Here’s how Heroes Hive stacks up against your other options.",
+      "summaries": [
+        "Think of us as <highlight>your creative department</highlight> ...without the department.",
+        "Managed, fast, flexible, and fully focused on your mission."
+      ],
+      "buttons": {
+        "open": "Open a Hive",
+        "expert": "Talk to an Expert"
+      }
+    },
+    "useCases": {
+      "sectionTitle": "Use Cases",
+      "headline": "Who <highlight>We're Built For</highlight>",
+      "cards": [
+        {
+          "title": "Online Stores",
+          "description": "From brand to store setup to marketing — all in one place."
+        },
+        {
+          "title": "Marketing Agencies",
+          "description": "Get a remote production team to support your client work."
+        },
+        {
+          "title": "App & Tech Startups",
+          "description": "Build your MVP’s brand, website, and launch campaign with speed."
+        },
+        {
+          "title": "Coaches & Consultants",
+          "description": "Establish your brand, content, and funnels without hiring full-time."
+        }
+      ],
+      "button": "Browse all use cases"
+    },
+
+    "comparisonTable": {
+      "header": {
+        "title": "WHY HEROES HIVE",
+        "columns": ["", "Hive", "Freelancers", "Agency", "In house"]
+      },
+      "rows": [
+        {
+          "feature": "Vetted Creative Teams",
+          "values": ["Included", "No", "Maybe", "No"]
+        },
+        {
+          "feature": "Fully Managed Delivery",
+          "values": ["Yes", "You manage", "Extra Cost", "Yes"]
+        },
+        {
+          "feature": "Flexible Pay-as-You-Go",
+          "values": ["Always", "Sometimes", "Monthly Retainer", "Salaried"]
+        },
+        {
+          "feature": "Faster Turnaround Times",
+          "values": ["2x faster", "Varies", "Varies", "Slow Hiring"]
+        },
+        {
+          "feature": "Creative Director Included",
+          "values": ["Included", "No", "Extra Cost", "Yes"]
+        },
+        {
+          "feature": "Refund Guarantee",
+          "values": ["Included", "No", "Rare", "No"]
+        }
+      ]
+    },
+
+    "whyHeroesHive": {
+      "sectionTitle": "WHY HEROES HIVE",
+      "headline": "You don't need to be a hero-<highlight>just open a Hive.</highlight>",
+      "features": {
+        "vettedSquads": {
+          "title": "Vetted Remote Squads",
+          "description": "Work with proven teams — no unreliable freelancers, no wasted time"
+        },
+        "builtInWorkflow": {
+          "title": "Built-In Workflow",
+          "description": "Every project follows a structured pipeline for speed and clarity."
+        },
+        "squadManagers": {
+          "title": "Squad Managers",
+          "description": "Each squad has a dedicated manager to ensure quality and accountability."
+        },
+        "flexiblePayment": {
+          "title": "Flexible Payment",
+          "description": "Pay upfront or split payments monthly — your choice."
+        },
+        "securedPayment": {
+          "title": "Secured Payment",
+          "description": "Your payment is safe and refundable if expectations aren’t met."
+        }
+      },
+      "ctaButton": "Learn More About How It Works"
+    },
+
+    "endorsement": {
+      "title": "Real heroes. Real results.",
+      "description": "See how other startups and small businesses scaled up faster with the Hive behind them.",
+      "quote": "We launched our brand and store in under 3 weeks using Heroes Hive. The process was smooth, the team was sharp, and the results exceeded expectations.",
+      "name": "Startup Founder",
+      "location": "Dubai"
+    },
+    "cta": {
+      "headline": "Ready to Build Your Brand, Launch Your Project, or Grow Your Business?",
+      "subheadline": "Start your project today — or let’s chat and plan it together.",
+      "note": "No subscriptions. No fluff. Just results.",
+      "selectDate": "Select Date and Time"
+    }
+  },
+  "services": {
+    "header": {
+      "title": "Launch a <highlight>Brand That Stands Out</highlight> and Scales",
+      "description": "From your logo to your brand voice, we build complete brand identities that help your business look sharp, stay consistent, and grow faster — executed by a vetted Squad, managed from start to finish.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text1": "Your brand is the <highlight>first impression</highlight> — and your long-term foundation.",
+      "text2": "We help startups, SMBs, and creators craft professional brand identities that look great everywhere: <highlight>your website, packaging, social, pitch deck, and beyond</highlight>. All built through a structured Pipeline, delivered by a fully managed remote Squad."
+    },
+    "whatIncluded": {
+      "subtitle": "WHAT’S INCLUDED",
+      "headline": "Your Branding & Identity project includes:",
+      "note": "All files are delivered in high-res (PNG, JPG, PDF) + source formats (AI, PSD, or Figma)."
+    },
+    "whoThisFor": {
+      "subtitle": "WHO THIS FOR",
+      "headline": "This service is perfect for",
+
+      "audienceGrid": {
+        "items": [
+          {
+            "text": "First-time founders launching from scratch"
+          },
+          {
+            "text": "Small businesses in need of a rebrand"
+          },
+          {
+            "text": "Personal brands, influencers, and coaches"
+          },
+          {
+            "text": "Agencies needing white-label brand kits"
+          }
+        ]
+      }
+    },
+    "walkAwayWith": {
+      "title": "WHAT YOU’LL WALK AWAY WITH",
+      "heading": "At the end of your project, you’ll have:",
+      "items": [
+        "A fully developed, scalable brand system",
+        "Assets that are ready to use across digital and print",
+        "Confidence that your brand looks consistent everywhere",
+        "Editable source files and guidance for future use"
+      ]
+    },
+    "whyHeroes": {
+      "title": "WHY <highlight>HEROES HIVE</highlight>",
+      "features": {
+        "workflow": {
+          "headline": "Built‑In Workflow",
+          "description": "Every project follows a structured pipeline for speed and clarity."
+        },
+        "squads": {
+          "headline": "Vetted Creative Squads",
+          "description": "Assigned based on your needs and style"
+        },
+        "managers": {
+          "headline": "Squad Managers Included",
+          "description": "Your single point of contact throughout"
+        },
+        "revisions": {
+          "headline": "Revisions Included",
+          "description": "We iterate until your brand hits right."
+        },
+        "payment": {
+          "headline": "Flexible Payment",
+          "description": "Pay upfront or monthly."
+        },
+        "security": {
+          "headline": "Secured Payment",
+          "description": "Protected until project is delivered."
+        }
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "ourWork": {
+      "subtitle": "OUR WORK",
+      "headline": "See What <highlight>We’ve Created</highlight>",
+      "seeMoreButton": "See More Work",
+      "projects": [
+        "Brand guideline sheets",
+        "Logo variations in use (web, social, packaging)",
+        "Side‑by‑side rebrands",
+        "Social Kit Examples"
+      ]
+    },
+    "growSection": {
+      "title": "Let’s Build a Brand That Matches Your Vision",
+      "subtitle": "From logo to launch kit — we’ve got your back.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "ourPlatform": {
+    "hero": {
+      "title": "The <highlight>Platform</highlight> behind execution",
+      "subtitle": "Heroes Hive combines agency-quality creativity with a platform that gives structure, speed, and accountability to every project.",
+      "buttons": {
+        "start": "Start a Project",
+        "consult": "Book a Free Consult"
+      }
+    },
+    "whyPlatform": {
+      "heading": "Why Platform Matters",
+      "title": "Most <highlight>creative service providers</highlight> leave you managing freelancers or chasing agencies for updates.",
+      "description": "At Heroes Hive, we deliver creative, tech, and marketing services through a platform:",
+      "points": [
+        "We match you with vetted Squads",
+        "We give you full visibility and control",
+        "We ensure smooth execution from start to finish"
+      ],
+      "footer": "We’ve systemized service delivery — so you get results, not chaos."
+    },
+    "whatPowers": {
+      "heading": "What Powers Heroes Hive",
+      "title": "Here’s what <highlight>sets our platform</highlight> apart from traditional agencies or freelance platforms:"
+    },
+    "features": {
+      "pipelines": {
+        "title": "Pipelines – Predefined Workflows",
+        "description": "Every service is delivered through a pipeline — a clear step-by-step workflow built for speed and clarity. No vague scopes. No guessing timelines. Just clean execution."
+      },
+      "squads": {
+        "title": "Vetted Squads – Not Freelancers",
+        "description": "You don’t hire individuals. You get a ready-to-go Squad — a remote, specialized team led by a Squad Manager. Every team is matched to your needs and style."
+      },
+      "activityLog": {
+        "title": "Activity Log – Transparent Project Tracking",
+        "description": "Track tasks, progress, revisions, and deliveries from your Hive dashboard. The activity log keeps everything in one place — no lost emails or WhatsApp threads."
+      },
+      "squadManager": {
+        "title": "Squad Manager – Your Execution Lead",
+        "description": "Every team comes with a built-in Squad Manager to make sure things run smoothly. You focus on your business. We handle the process."
+      },
+      "payments": {
+        "title": "Protected Payments – Quality Guarantee",
+        "description": "Payments are held until you approve deliveries. If we don’t deliver, you get a refund. Simple. Safe. Fair."
+      }
+    },
+    "seeIt": {
+      "heading": "See It in Action",
+      "title": "What it’s like to <highlight>work inside the Hive</highlight>"
+    },
+    "whyItWorks": {
+      "heading": "Why Our Platform Works",
+      "title": "Every <highlight>great mission needs</highlight> a team",
+      "subtitle": "Here’s how we assemble your team and deliver your project with precision.",
+      "buttons": {
+        "howItWorks": "See How We Work",
+        "browseServices": "Browse Services"
+      }
+    },
+    "cta": {
+      "title": "Let’s Build Your Next Project — Platform Powered",
+      "description": "Start with one of our service packages, or let us help you plan your workflow.",
+      "buttons": {
+        "start": "Start a Project",
+        "consult": "Book a Free Consult"
+      }
+    }
+  },
+  "servicesAndBrandIdentity": {
+    "header": {
+      "title": "Launch a <highlight>Brand That Stands Out</highlight> and Scales",
+      "description": "From your logo to your brand voice, we build complete brand identities that help your business look sharp, stay consistent, and grow faster — executed by a vetted Squad, managed from start to finish.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text1": "Your brand is the <highlight>first impression</highlight> — and your long-term foundation.",
+      "text2": "We help startups, SMBs, and creators craft professional brand identities that look great everywhere: <highlight>your website, packaging, social, pitch deck, and beyond</highlight>. All built through a structured Pipeline, delivered by a fully managed remote Squad."
+    },
+    "whatIncluded": {
+      "subtitle": "WHAT’S INCLUDED",
+      "headline": "Your Branding & Identity project includes:",
+      "note": "All files are delivered in high-res (PNG, JPG, PDF) + source formats (AI, PSD, or Figma)."
+    },
+    "whoThisFor": {
+      "subtitle": "WHO THIS FOR",
+      "headline": "This service is perfect for",
+
+      "audienceGrid": {
+        "items": [
+          {
+            "text": "First-time founders launching from scratch"
+          },
+          {
+            "text": "Small businesses in need of a rebrand"
+          },
+          {
+            "text": "Personal brands, influencers, and coaches"
+          },
+          {
+            "text": "Agencies needing white-label brand kits"
+          }
+        ]
+      }
+    },
+    "walkAwayWith": {
+      "title": "WHAT YOU’LL WALK AWAY WITH",
+      "heading": "At the end of your project, you’ll have:",
+      "items": [
+        "A fully developed, scalable brand system",
+        "Assets that are ready to use across digital and print",
+        "Confidence that your brand looks consistent everywhere",
+        "Editable source files and guidance for future use"
+      ]
+    },
+    "whyHeroes": {
+      "title": "WHY <highlight>HEROES HIVE</highlight>",
+      "features": {
+        "workflow": {
+          "headline": "Built‑In Workflow",
+          "description": "Every project follows a structured pipeline for speed and clarity."
+        },
+        "squads": {
+          "headline": "Vetted Creative Squads",
+          "description": "Assigned based on your needs and style"
+        },
+        "managers": {
+          "headline": "Squad Managers Included",
+          "description": "Your single point of contact throughout"
+        },
+        "revisions": {
+          "headline": "Revisions Included",
+          "description": "We iterate until your brand hits right."
+        },
+        "payment": {
+          "headline": "Flexible Payment",
+          "description": "Pay upfront or monthly."
+        },
+        "security": {
+          "headline": "Secured Payment",
+          "description": "Protected until project is delivered."
+        }
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "ourWork": {
+      "subtitle": "OUR WORK",
+      "headline": "See What <highlight>We’ve Created</highlight>",
+      "seeMoreButton": "See More Work",
+      "projects": [
+        "Brand guideline sheets",
+        "Logo variations in use (web, social, packaging)",
+        "Side‑by‑side rebrands",
+        "Social Kit Examples"
+      ]
+    },
+    "growSection": {
+      "title": "Let’s Build a Brand That Matches Your Vision",
+      "subtitle": "From logo to launch kit — we’ve got your back.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "illustrationDesign": {
+    "header": {
+      "title": "Launch a <highlight>Brand That Stands Out</highlight> and Scales",
+      "description": "Whether you need characters, scenes, icons, or campaign artwork — our illustration Squads deliver stunning visuals tailored to your brand and purpose.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text1": "Great illustration sets your brand apart —  <highlight>it grabs attention, adds personality, and communicates faster than words </highlight>.",
+      "text2": " At Heroes Hive, we connect you with vetted illustration Squads skilled in various styles: corporate, cartoon, editorial, anime, realistic, and more. Every project follows a clear Pipeline, guided by a Squad Manager from briefing to final delivery."
+    },
+    "whatIncluded": {
+      "subtitle": "WHAT’S INCLUDED",
+      "headline": "Choose your illustration goals — we’ll match you with the right style and artist:",
+      "note": "Deliverables include final artwork in PNG, JPG, PDF + editable source files (AI, PSD, or Procreate depending on artist/tool used)."
+    },
+    "whoThisFor": {
+      "subtitle": "WHO THIS FOR",
+      "headline": "This service is ideal for",
+
+      "audienceGrid": {
+        "items": [
+          {
+            "text": "Startups wanting original visual storytelling"
+          },
+          {
+            "text": "Brands looking for mascots or icons"
+          },
+          {
+            "text": "Animation studios needing concept-ready art"
+          },
+          {
+            "text": "Creators, publishers, and agencies seeking IP-based visuals"
+          }
+        ]
+      }
+    },
+    "walkAwayWith": {
+      "title": "WHAT YOU’LL WALK AWAY WITH",
+      "heading": "At the end of your project, you’ll have:",
+      "items": [
+        "Hand-drawn or digitally rendered illustrations in your desired style",
+        "On-brand visuals that make your content and products pop",
+        "On-brand visuals that make your content and products pop",
+        "Creative assets that are 100% custom and unique to you"
+      ]
+    },
+    "whyHeroes": {
+      "title": "WHY <highlight>HEROES HIVE</highlight>",
+      "features": {
+        "workflow": {
+          "headline": "Specialized Illustration Squads — Picked for your style and needs",
+          "description": ""
+        },
+        "squads": {
+          "headline": "Custom-Built Process — From reference board to final delivery",
+          "description": ""
+        },
+        "managers": {
+          "headline": "Squad Manager Included — Handles quality and communication",
+          "description": ""
+        },
+        "revisions": {
+          "headline": "Unlimited Styles — From vector to hand-drawn",
+          "description": ""
+        },
+        "payment": {
+          "headline": "Flexible Payment Options",
+          "description": ""
+        },
+        "security": {
+          "headline": "Secure Payment — Your work is protected until you approve it",
+          "description": ""
+        }
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "ourWork": {
+      "subtitle": "OUR WORK",
+      "headline": "Visuals That <highlight>Speak for Themselves </highlight>",
+      "seeMoreButton": "See More Work",
+      "projects": [
+        "Character sheets",
+        "Web or mobile illustrations",
+        "Campaign artwork",
+        "Editorial and product scenes"
+      ]
+    },
+    "growSection": {
+      "title": "Let’s Illustrate Your Brand, Story, or Product — Beautifully and Boldly",
+      "subtitle": "",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "socialMediaCreatives": {
+    "header": {
+      "title": "Branded Content That Gets Engagement — Not Just Likes",
+      "description": "Our Squads design scroll-stopping social media visuals that build your brand, boost engagement, and stay on-message — delivered fast, in every format you need.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text1": "You don’t just need content — <highlight>you need content that looks professional, speaks your brand language, and performs across every channel</highlight>.",
+      "text2": "At Heroes Hive, our vetted design Squads create high-quality, high-volume social creatives so <highlight>your team can stay focused on growth</highlight>. We handle design, formatting, batching, and revisions — all through a structured Pipeline."
+    },
+    "whatIncluded": {
+      "subtitle": "WHAT’S INCLUDED",
+      "headline": "You can request content in any platform-specific format. Common deliverables include:",
+      "note": "Assets are delivered in platform-ready sizes (Instagram, TikTok, LinkedIn, etc.) along with editable files."
+    },
+    "whoThisFor": {
+      "subtitle": "WHO THIS FOR",
+      "headline": "This service is perfect for",
+
+      "audienceGrid": {
+        "items": [
+          {
+            "text": "Founders and coaches growing a personal brand"
+          },
+          {
+            "text": "Marketing teams running ongoing social campaigns"
+          },
+          {
+            "text": "Agencies handling multiple client accounts"
+          },
+          {
+            "text": "E-commerce stores with seasonal promos"
+          }
+        ]
+      }
+    },
+    "walkAwayWith": {
+      "title": "WHAT YOU’LL WALK AWAY WITH",
+      "heading": "At the end of your project, you’ll have:",
+      "items": [
+        "Branded, consistent social media content — built to convert, not just look nice",
+        "Posts and templates that match your campaigns, product launches, or personal brand",
+        "Files you can reuse, edit, or hand off to your marketing team easily",
+        "Editable source files and guidance for future use"
+      ]
+    },
+    "whyHeroes": {
+      "title": "WHY <highlight>HEROES HIVE</highlight>",
+      "features": {
+        "workflow": {
+          "headline": "Built by Social-First Designers",
+          "description": ""
+        },
+        "squads": {
+          "headline": "Formatted for Every Channel",
+          "description": ""
+        },
+        "managers": {
+          "headline": "Fast Turnaround with Squad Oversight",
+          "description": ""
+        },
+        "revisions": {
+          "headline": "Canva & Figma Delivery Options",
+          "description": ""
+        },
+        "payment": {
+          "headline": "Flexible Payments",
+          "description": ""
+        },
+        "security": {
+          "headline": "Protected Payments — Files delivered, or you don’t pay",
+          "description": ""
+        }
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "ourWork": {
+      "subtitle": "OUR WORK",
+      "headline": "<highlight>Consistent, Engaging, On-Brand</highlight>",
+      "seeMoreButton": "See More Work",
+      "projects": [
+        "Instagram carousels",
+        "Branded quotes",
+        "TikTok cover visuals",
+        "Promo stories or launch visuals"
+      ]
+    },
+    "growSection": {
+      "title": "Need Better-Looking Content for Your Socials? Let’s Build It.",
+      "subtitle": "",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "contentProduction": {
+    "header": {
+      "title": "Scroll-Stopping Content for Social, Web, and Beyond",
+      "description": "From explainer videos to short-form reels, our Squads produce high-quality content designed to capture attention, tell your story, and fuel growth — fast and fully managed.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text1": "Your content is what builds trust, communicates value, and drives engagement. But creating it consistently — and at a high standard — takes a real team.",
+      "text2": " At Heroes Hive, <highlight>we deliver top-tier content production without the full-time overhead</highlight>. Each project is run through a structured Pipeline and executed by a remote Squad of creatives, editors, and animators."
+    },
+    "whatIncluded": {
+      "subtitle": "WHAT’S INCLUDED",
+      "headline": "Choose the format that matches your goal — or bundle them into a full content pack:",
+      "note": "All content is optimized for your channels and delivered in ready-to-publish formats + source files."
+    },
+    "whoThisFor": {
+      "subtitle": "WHO THIS FOR",
+      "headline": "This service is perfect for",
+
+      "audienceGrid": {
+        "items": [
+          {
+            "text": "Startups launching product explainers or announcements"
+          },
+          {
+            "text": "Personal brands creating thought-leadership content"
+          },
+          {
+            "text": "Agencies needing production support"
+          },
+          {
+            "text": "Companies running multi-channel campaigns"
+          }
+        ]
+      }
+    },
+    "walkAwayWith": {
+      "title": "WHAT YOU’LL WALK AWAY WITH",
+      "heading": "At the end of your project, you’ll have:",
+      "items": [
+        "High-quality video and visual content to fuel your channels",
+        "Consistent branding and pacing that reflects your voice",
+        "Ready-to-post assets with zero follow-up editing needed",
+        "An experienced team that handles all execution and revisions"
+      ]
+    },
+    "whyHeroes": {
+      "title": "WHY <highlight>HEROES HIVE</highlight>",
+      "features": {
+        "workflow": {
+          "headline": "Expert Content Squads — Designers, editors, and animators in sync",
+          "description": ""
+        },
+        "squads": {
+          "headline": "Vetted Creative Squads",
+          "description": ""
+        },
+        "managers": {
+          "headline": "Squad Manager — Handles feedback, revisions, delivery",
+          "description": ""
+        },
+        "revisions": {
+          "headline": "Formats Optimized for Every Platform",
+          "description": ""
+        },
+        "payment": {
+          "headline": "Flexible Payment Plans",
+          "description": ""
+        },
+        "security": {
+          "headline": "Secure Payment = Protected Until Delivered",
+          "description": ""
+        }
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "ourWork": {
+      "subtitle": "OUR WORK",
+      "headline": "Content That<highlight> Engages — and Converts</highlight>",
+      "seeMoreButton": "See More Work",
+      "projects": [
+        "Motion video thumbnails",
+        "Reels / vertical previews",
+        "Explainer video stills",
+        "Branded visual content kits"
+      ]
+    },
+    "growSection": {
+      "title": "Need Consistent, High-Quality Content? We’ll Handle It.",
+      "subtitle": "Just share your goals — we’ll take it from concept to final cut.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "marketingAndAds": {
+    "header": {
+      "title": "Performance-Driven Creative That Gets You Noticed (and Clicked)",
+      "description": "From static ads to landing pages and email campaigns, our Squads create high-impact marketing assets built to convert — fast, strategic, and fully managed.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text1": "You have a great product — now you need great creative to promote it. Heroes Hive <highlight>helps startups and small teams grow with high-quality, conversion-focused </highlight> marketing assets.",
+      "text2": "From ad sets to email flows, we provide the creative horsepower and execution workflow — <highlight>without needing a full-time team</highlight> or agency retainer. Everything is delivered by a vetted remote Squad, managed through a structured Pipeline."
+    },
+    "whatIncluded": {
+      "subtitle": "WHAT’S INCLUDED",
+      "headline": "You can build your project based on your needs and funnel stage:",
+      "note": "Deliverables include ready-to-launch assets + editable source files (Figma, PSD, HTML as needed)."
+    },
+    "whoThisFor": {
+      "subtitle": "WHO THIS FOR",
+      "headline": "This service is perfect for",
+
+      "audienceGrid": {
+        "items": [
+          {
+            "text": "Startups about to launch paid ads"
+          },
+          {
+            "text": "Brands scaling with email and retargeting"
+          },
+          {
+            "text": "Marketing teams needing ongoing creative support"
+          },
+          {
+            "text": "Agencies outsourcing content production"
+          }
+        ]
+      }
+    },
+    "walkAwayWith": {
+      "title": "WHAT YOU’LL WALK AWAY WITH",
+      "heading": "At the end of your project, you’ll have:",
+      "items": [
+        "Scroll-stopping creative for paid or organic growth",
+        "Assets built with speed, consistency, and conversion in mind",
+        "A creative team that understands performance goals",
+        "Formats and files ready for launch across your ad stack"
+      ]
+    },
+    "whyHeroes": {
+      "title": "WHY <highlight>HEROES HIVE</highlight>",
+      "features": {
+        "workflow": {
+          "headline": "Performance Creative, Not Just Pretty Designs",
+          "description": ""
+        },
+        "squads": {
+          "headline": "Structured Workflow = Faster Turnaround",
+          "description": ""
+        },
+        "managers": {
+          "headline": "Squad Manager to Guide the Process",
+          "description": ""
+        },
+        "revisions": {
+          "headline": "Feedback Loops and Revisions Included",
+          "description": ""
+        },
+        "payment": {
+          "headline": "Pay Per Project or Monthly",
+          "description": ""
+        },
+        "security": {
+          "headline": "Secure, Milestone-Based Payment",
+          "description": ""
+        }
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "ourWork": {
+      "subtitle": "OUR WORK",
+      "headline": "Real Creatives. highlight>Real Clicks.</highlight>",
+      "seeMoreButton": "See More Work",
+      "projects": [
+        "Social ad carousels",
+        "Static + motion ad variants",
+        "High-converting landing pages",
+        "Email previews (desktop + mobile)"
+      ]
+    },
+    "growSection": {
+      "title": "Need Ad Creatives or a Campaign Toolkit? Let’s Make It Happen",
+      "subtitle": "We handle everything from design to delivery. You stay focused on growth.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "websiteAndOnlineStores": {
+    "header": {
+      "title": "Websites and Online Stores That Convert and Scale",
+      "description": "Whether you’re launching a business site or building a full e-commerce store, our Squads design and develop everything — fast, responsive, and fully managed.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text1": "Your website is your digital home — and your online store is your 24/7 sales engine.",
+      "text2": "At Heroes Hive, <highlight>we build websites and e-commerce platforms that look great, load fast, and convert visitors</highlight> into customers. Everything is executed through a structured Pipeline by a vetted remote Squad, led by a dedicated Squad Manager."
+    },
+    "whatIncluded": {
+      "subtitle": "WHAT’S INCLUDED",
+      "headline": "Depending on your goals, we’ll match you with the right workflow:",
+      "note": "Deliverables include all site files, mobile-optimized layouts, and admin login with training handoff."
+    },
+    "whoThisFor": {
+      "subtitle": "WHO THIS FOR",
+      "headline": "This service is perfect for",
+
+      "audienceGrid": {
+        "items": [
+          {
+            "text": "New businesses without a website"
+          },
+          {
+            "text": "Online stores ready to launch or rebrand"
+          },
+          {
+            "text": "Agencies building client websites"
+          },
+          {
+            "text": "Creators and coaches selling products or services"
+          }
+        ]
+      }
+    },
+    "walkAwayWith": {
+      "title": "WHAT YOU’LL WALK AWAY WITH",
+      "heading": "You’ll get:",
+      "items": [
+        "A fully functional, mobile-responsive site or store",
+        "Pages that reflect your brand and speak to your audience",
+        "A user-friendly CMS you can update any time",
+        "A platform ready to launch, sell, and scale"
+      ]
+    },
+    "whyHeroes": {
+      "title": "WHY <highlight>HEROES HIVE</highlight>",
+      "features": {
+        "workflow": {
+          "headline": "Built with Purpose — Strategy, not just templates",
+          "description": ""
+        },
+        "squads": {
+          "headline": "Design + Development in One Squad",
+          "description": ""
+        },
+        "managers": {
+          "headline": "Fully Managed — You’ll never chase updates",
+          "description": ""
+        },
+        "revisions": {
+          "headline": "Customizable Scope — Add blog, store, or integrations",
+          "description": ""
+        },
+        "payment": {
+          "headline": "Flexible Payment Options",
+          "description": ""
+        },
+        "security": {
+          "headline": "Secured Payment Protection",
+          "description": ""
+        }
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "ourWork": {
+      "subtitle": "OUR WORK",
+      "headline": "See What <highlight>We’ve Built</highlight>",
+      "seeMoreButton": "See More Work",
+      "projects": [
+        "Homepage + mobile preview",
+        "E-commerce product page",
+        "Clean site navigation + CTA blocks",
+        "Before/after redesign mockups"
+      ]
+    },
+    "growSection": {
+      "title": "Let’s Launch Your Website or Store — Without the Overwhelm",
+      "subtitle": "Design. Development. Delivery. One Squad, one pipeline.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "conceptDesign": {
+    "header": {
+      "title": "Bring Your Ideas to Life with World-Class Concept Design",
+      "description": "From characters and environments to product and brand concepts — our Squads turn abstract ideas into clear, visual direction that drives creative execution.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text1": "Every great creative project starts with strong visual concepts — the building blocks of stories, brands, products, and worlds.",
+      "text2": " At Heroes Hive, <highlight>we help IP creators, studios, and content-driven brands visualize their ideas before production</highlight>. Whether it’s for animation, branding, gaming, or marketing, our vetted Concept Design Squads deliver stunning, pre-production artwork — all through a structured Pipeline."
+    },
+    "whatIncluded": {
+      "subtitle": "WHAT’S INCLUDED",
+      "headline": "Choose the focus of your concept project:",
+      "note": "Deliverables include high-quality concepts, sketches, and visual sheets in PDF or layered formats (PSD, AI, Procreate, or Figma depending on need)."
+    },
+    "whoThisFor": {
+      "subtitle": "WHO THIS FOR",
+      "headline": "This service is perfect for",
+
+      "audienceGrid": {
+        "items": [
+          {
+            "text": "IP creators and animation studios"
+          },
+          {
+            "text": "Marketing teams working on campaigns or characters"
+          },
+          {
+            "text": "Startup founders with product or mascot ideas"
+          },
+          {
+            "text": "Agencies needing visual development for client work"
+          }
+        ]
+      }
+    },
+    "walkAwayWith": {
+      "title": "WHAT YOU’LL WALK AWAY WITH",
+      "heading": "At the end of your project, you’ll have:",
+      "items": [
+        "A professionally designed concept package for your idea or IP",
+        "Clarity on how your characters, products, or stories will look and feel",
+        "Visual assets ready to guide production teams, investors, or clients",
+        "Editable source files for future adaptation and use"
+      ]
+    },
+    "whyHeroes": {
+      "title": "WHY <highlight>HEROES HIVE</highlight>",
+      "features": {
+        "workflow": {
+          "headline": "Expert Concept Designers — Assigned by style and scope",
+          "description": ""
+        },
+        "squads": {
+          "headline": "Pre-Production Ready Output — Structured files and documentation",
+          "description": ""
+        },
+        "managers": {
+          "headline": "Squad Manager to Oversee Delivery & Feedback",
+          "description": ""
+        },
+        "revisions": {
+          "headline": "Supports Animation, Games, and Brand Development",
+          "description": ""
+        },
+        "payment": {
+          "headline": "Flexible Payment Optons",
+          "description": ""
+        },
+        "security": {
+          "headline": "Protected Payment — You release funds only when satisfied",
+          "description": ""
+        }
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "ourWork": {
+      "subtitle": "OUR WORK",
+      "headline": "Concepts that <highlight>Shape Worlds and Sell Stories</highlight>",
+      "seeMoreButton": "See More Work",
+      "projects": [
+        "Character turnarounds or expressions",
+        "Environment exploration",
+        "IP visual sheets",
+        "Mood boards or layout concepts"
+      ]
+    },
+    "growSection": {
+      "title": "Turn Your Idea Into a Visual Concept That Inspires and Informs",
+      "subtitle": "",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+
+  "useCase": {
+    "header": {
+      "title": "Launch, Grow, and <highlight>Promote Your Online Store</highlight> — Without Hiring a Team",
+      "description": "From brand identity and storefront design to ad creatives and product visuals — we’ve got everything your store needs to get off the ground and into the market, fast.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text": "Running an online store is more than just setting up Shopify. You need a brand that stands out, a store that converts, and ongoing content to keep traffic flowing and sales coming in. At Heroes Hive, we give online businesses a complete creative and marketing team — without the cost of full-time hires or the chaos of chasing freelancers.",
+      "highlight": "You choose the Pipeline. We handle everything else."
+    },
+    "whatWeHelp": {
+      "title": "What We Can Help You With",
+      "subtitle": "Our <highlight>Squads can support</highlight> you with:",
+      "footer": "All work is <highlight>delivered through Pipelines</highlight> and managed inside your private Hive workspace."
+    },
+    "suggestedPipelines": {
+      "title": "Suggested Pipelines for Online Stores",
+      "browse": "Browse All Pipelines",
+      "packs": {
+        "brand": {
+          "title": "Brand & Launch Pack",
+          "description": "Craft your logo, visual identity, and social kit — ready to launch or relaunch your store."
+        },
+        "store": {
+          "title": "Online Store Pack",
+          "description": "From homepage to product pages, we build your storefront with conversion in mind."
+        },
+        "content": {
+          "title": "Content & Ads Pack",
+          "description": "Get social posts, ads, and short-form videos designed to drive traffic and boost sales."
+        }
+      }
+    },
+    "whyHeroes": {
+      "title": "You don't need to be a hero-<highlight>just open a Hive.</highlight>",
+      "features": {
+        "squads": "Vetted design, dev, and content Squads",
+        "manager": "Squad Manager to run the whole workflow",
+        "pricing": "Flexible pricing — project-based or monthly",
+        "solution": "All-in-one solution: brand, site, and marketing",
+        "dashboard": "Work delivered inside your dashboard",
+        "protection": "Secure payments with refund protection"
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "growSection": {
+      "title": "Let’s Launch or Grow Your Store — The Smart Way",
+      "description": "Tell us your goals, and we’ll build the creative team around them.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "appTechStartups": {
+    "header": {
+      "title": "Launch Faster, Pitch Smarter, and Scale with Creative Firepower",
+      "description": "Whether you’re pre-launch, post-MVP, or pitching for funding — our Squads give you the creative and marketing support your product needs to grow.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text": "Tech startups move fast — and you don’t always have the time (or budget) to hire an in-house team. Heroes Hive connects you with pre-vetted Squads who can help you design your brand,build your website, prep your pitch deck, and promote your product — without hiring full-time creatives or freelancers",
+      "highlight": "Execution is fast, focused, and handled end-to-end by a Squad Manager."
+    },
+    "whatWeHelp": {
+      "title": "What We Can Help You With",
+      "subtitle": "Our Squads <highlight> help tech founders and product teams  </highlight> with:",
+      "footer": "Everything is managed inside your Hive dashboard — <highlight>so you stay focused on building, </highlight> not chasing deliverables."
+    },
+    "suggestedPipelines": {
+      "title": "Suggested Pipelines for Online Stores",
+      "browse": "Browse All Pipelines",
+      "packs": {
+        "brand": {
+          "title": "Brand & Launch Pack",
+          "description": "Get your logo, color system, and visual identity — built for pitch decks and product pages."
+        },
+        "store": {
+          "title": "Website & Landing Page Pack",
+          "description": "Design and launch your landing page or product site, fully optimized for mobile."
+        },
+        "content": {
+          "title": "Content & Ads Pack",
+          "description": "Promo videos, reels, product previews, and ad creative — all aligned with your messaging."
+        }
+      }
+    },
+    "whyHeroes": {
+      "title": "Why <highlight>Startups Use</highlight> Heroes Hive.</highlight>",
+      "features": {
+        "squads": "Fast execution with flexible scope",
+        "manager": "Built for startup budgets",
+        "pricing": "Creative, design, and motion all in one place",
+        "solution": "Fully managed — no team to hire, no freelancers to brief",
+        "dashboard": "Pay by project or month",
+        "protection": "Work is protected and refunded if not delivered"
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "growSection": {
+      "title": "Let’s Help You Launch and Scale — Without Slowing Down",
+      "description": "We’ll match you with a remote creative team ready to move at startup speed.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "coachesAndConsultants": {
+    "header": {
+      "title": "Build a Brand That Positions You as the Expert",
+      "description": "From your logo and website to reels, content, and course visuals — we help coaches and personal brands launch and grow with a powerful visual presence.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text": "You’ve built the knowledge. You’ve got the message. Now it’s time to build the brand. Heroes Hive provides coaches, consultants, and creators with a fully managed remote team to create everything needed to grow online — visuals, websites, social kits, and content.",
+      "highlight": "No freelancers to manage. No confusing platforms. Just execution that moves with you."
+    },
+    "whatWeHelp": {
+      "title": "What We Can Help You With",
+      "subtitle": "Our Squads <highlight>support coaches and creators</highlight> with:",
+      "footer": "Everything is delivered in <highlight> platform-optimized formats and editable files </highlight> — so you can keep posting with confidence."
+    },
+    "suggestedPipelines": {
+      "title": "Suggested Pipelines for Online Stores",
+      "browse": "Browse All Pipelines",
+      "packs": {
+        "brand": {
+          "title": "Brand & Launch Pack",
+          "description": "Design your personal logo, colors, fonts, and kit to build a professional image."
+        },
+        "store": {
+          "title": "Content & Ads Pack",
+          "description": "Custom video, image, and carousel content ready to post on Instagram, LinkedIn, or TikTok."
+        },
+        "content": {
+          "title": "Social Media Creatives Pack",
+          "description": "Visuals that make your feed cohesive, branded, and credible — with templates you can reuse."
+        }
+      }
+    },
+    "whyHeroes": {
+      "title": " Why <highlight>Coaches Use</highlight> Heroes Hive</highlight>",
+      "features": {
+        "squads": "You get a full creative team — without hiring",
+        "manager": "Work is customized to your personality and message",
+        "pricing": "Squad Manager handles everything for you",
+        "solution": "Files delivered and ready to post",
+        "dashboard": "Flexible budget options",
+        "protection": "Payment protected until you’re happy"
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "growSection": {
+      "title": "Let’s Build Your Brand So You Can Focus on Building Your Audience ",
+      "description": "We’ll give you the tools and visuals to show up like a pro.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "marketingAgencies": {
+    "header": {
+      "title": "Scale Your Agency’s Output Without Burning Out Your Team",
+      "description": "From ad creatives and landing pages to branding and content — our Squads plug into your workflow so you can deliver more, faster, and without full-time hires.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text": "Client deadlines are tight. Creative needs keep growing. And your internal team is maxed out. Heroes Hive gives marketing agencies and studios access to flexible, high-performing creative Squads — ready to deliver high-quality work across design, content, web, and branding.",
+      "highlight": "You stay focused on strategy and client relationships. We handle the execution."
+    },
+    "whatWeHelp": {
+      "title": "What We Can Help You With",
+      "subtitle": "Our <highlight>Squads can support</highlight> your agency with:",
+      "footer": " You can assign full projects or split work by deliverable — and <highlight>everything is managed by your dedicated Squad Manager.</highlight>"
+    },
+    "suggestedPipelines": {
+      "title": "Suggested Pipelines for Online Stores",
+      "browse": "Browse All Pipelines",
+      "packs": {
+        "brand": {
+          "title": "Brand & Launch Pack",
+          "description": "Offer complete brand identity packages for your clients — handled start to finish."
+        },
+        "store": {
+          "title": "Marketing & Ads Pack",
+          "description": "Consistent delivery of high-converting visuals and motion ads to fuel campaigns."
+        },
+        "content": {
+          "title": "Content Production Pack",
+          "description": "Explainers, short-form video, branded content, and more — on time, every time."
+        }
+      }
+    },
+    "whyHeroes": {
+      "title": "Why -<highlight>Agencies Work </highlight> With Heroes Hive.",
+      "features": {
+        "squads": "Work is white-labeled — your clients never know",
+        "manager": "Assigned Squad + Squad Manager",
+        "pricing": "Plug-and-play Pipelines with transparent scope",
+        "solution": "No onboarding overhead or long-term commitment",
+        "dashboard": "Flexible pricing per project or month",
+        "protection": "Secure payment & quality guarantee"
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "growSection": {
+      "title": "Get the Extra Hands (and Heads) Without Extra Overhead",
+      "description": "Let’s talk about how Heroes Hive can support your next campaign or client delivery.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "onlineStores": {
+    "header": {
+      "title": "Launch, Grow, and <highlight>Promote Your Online Store</highlight> — Without Hiring a Team",
+      "description": "From brand identity and storefront design to ad creatives and product visuals — we’ve got everything your store needs to get off the ground and into the market, fast.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    },
+    "intro": {
+      "text": "Running an online store is more than just setting up Shopify. You need a brand that stands out, a store that converts, and ongoing content to keep traffic flowing and sales coming in. At Heroes Hive, we give online businesses a complete creative and marketing team — without the cost of full-time hires or the chaos of chasing freelancers.",
+      "highlight": "You choose the Pipeline. We handle everything else."
+    },
+    "whatWeHelp": {
+      "title": "What We Can Help You With",
+      "subtitle": "Whether you’re <highlight>just starting</highlight> or <highlight>looking to scale,</highlight> our Squads can support you with: ",
+      "footer": "All work is <highlight>delivered through Pipelines</highlight> and managed inside your private Hive workspace."
+    },
+    "suggestedPipelines": {
+      "title": "Suggested Pipelines for Online Stores",
+      "browse": "Browse All Pipelines",
+      "packs": {
+        "brand": {
+          "title": "Brand & Launch Pack",
+          "description": "Craft your logo, visual identity, and social kit — ready to launch or relaunch your store."
+        },
+        "store": {
+          "title": "Online Store Pack",
+          "description": "From homepage to product pages, we build your storefront with conversion in mind."
+        },
+        "content": {
+          "title": "Content & Ads Pack",
+          "description": "Get social posts, ads, and short-form videos designed to drive traffic and boost sales."
+        }
+      }
+    },
+    "whyHeroes": {
+      "title": "You don't need to be a hero-<highlight>just open a Hive.</highlight>",
+      "features": {
+        "squads": "Vetted design, dev, and content Squads",
+        "manager": "Squad Manager to run the whole workflow",
+        "pricing": "Flexible pricing — project-based or monthly",
+        "solution": "All-in-one solution: brand, site, and marketing",
+        "dashboard": "Work delivered inside your dashboard",
+        "protection": "Secure payments with refund protection"
+      },
+      "learnMore": "Learn More About How It Works"
+    },
+    "growSection": {
+      "title": "Let’s Launch or Grow Your Store — The Smart Way",
+      "description": "Tell us your goals, and we’ll build the creative team around them.",
+      "buttons": {
+        "startProject": "Start a Project",
+        "freeConsultation": "Schedule a Free Consulatation"
+      }
+    }
+  },
+  "loginBtn": "Login",
+  "getStartedBtn": "Get Started",
+  "footer": {
+    "tagline": "Build your <highlight>dream remote team</highlight> effortlessly",
+    "sections": {
+      "services": {
+        "title": "Services",
+        "items": [
+          "Branding & Identity",
+          "Social Media Creatives",
+          "Marketing & Ads",
+          "Concept Design",
+          "Illustration Design",
+          "Content Production",
+          "Website & Online Stores"
+        ]
+      },
+      "useCases": {
+        "title": "Use Cases",
+        "items": [
+          "Online Stores",
+          "Marketing Agencies",
+          "App & Tech Startups",
+          "Coaches & Consultants"
+        ]
+      },
+      "navigation": {
+        "title": "Navigation",
+        "items": ["About", "Why Us", "Blogs", "Pricing", "Contact Us"]
+      },
+      "legal": {
+        "title": "Legal",
+        "items": ["Terms & Conditions", "Privacy Policy"]
+      }
+    },
+    "copyright": "© 2025 All rights reserved. Dubai, UAE",
+    "social": {
+      "facebook": "Facebook page",
+      "instagram": "Instagram account",
+      "linkedin": "Linkedin account"
+    }
+  }
+}
